@@ -1,1 +1,2 @@
 # Survival_Analysis2
+In this project, using the Veteran’s dataset located in the survival library which is a randomized trial of two treatments regimens for lung cancer, I was conducting survival analysis, creating a cox proportional hazard model, and a stratified cox proportion model. Also throughout the project I was checking to ensure that the assumptions of of Cox proportional hazard model and a stratified model was met in order to conduct my analysis. It should be noted that the variable descriptions are written in the R code. 
